@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/krishnendu-ghosh-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnendu-ghosh-web" height="30" width="40" /></a>
 <a href="https://instagram.com/lenswizard_krish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lenswizard_krish" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@LensWizard_Krish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lenswizard_krish" height="30" width="40" /></a>
+<a href="https://youtube.com/@LensWizard_Krish?si=G4YiliiBh8fOQf_q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lenswizard_krish" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bkrishnendughosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bkrishnendughosh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bkrishnendughosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bkrishnendughosh" height="30" width="40" /></a>
 </p>
